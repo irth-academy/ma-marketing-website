@@ -1,0 +1,46 @@
+# MA Marketing Company website settings
+# Edit the value after '=' only. Keep image paths relative to index.html or use full https:// URLs.
+# For local preview, run a local server (instructions are in README.txt) so this TXT file can be fetched.
+
+# Images
+logo_path=ma-logo.png
+hero_background=hero-background.png
+about_image=ideas-studio.png
+project_1_image=project-1.jpg
+project_2_image=project-2.jpg
+project_3_image=project-3.jpg
+project_4_image=project-4.jpg
+
+# Navigation / button destinations
+home_link=#home
+about_link=#about
+services_link=#services
+work_link=#work
+contact_link=#contact
+start_project_link=#contact
+hero_contact_link=#contact
+hero_work_link=#work
+about_more_link=#contact
+
+# Portfolio destinations (replace with the real project URLs)
+project_1_link=#contact
+project_2_link=#contact
+project_3_link=#contact
+project_4_link=#contact
+
+# Contact links / display details
+phone_link=tel:+201012345678
+phone_number=+20 10 1234 5678
+email_link=mailto:info@example.com
+email_address=info@example.com
+address_text=مصر - المنيا - سوهاج - القاهرة
+
+# Social profile links
+facebook_link=https://facebook.com/
+instagram_link=https://instagram.com/
+x_link=https://x.com/
+youtube_link=https://youtube.com/
+tiktok_link=https://tiktok.com/
+
+# Footer
+copyright_year=2026
